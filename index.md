@@ -1,4 +1,4 @@
-# 👩‍💻 Isabela Nunes Medeiros
+# Isabela Nunes Medeiros
 
 **Analista de Dados & BI Junior**  
 📍 Rio Negrinho/SC  
