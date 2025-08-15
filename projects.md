@@ -16,6 +16,7 @@ Este projeto foi desenvolvido no Power BI com o objetivo de analisar a evoluçã
 - Volume médio de ações negociadas
 - Gráficos de variação mensal e evolução de volume
 
+📎 [Clique aqui para ver o relatório em PDF](ibm.pdf)
 ---
 
 ### 📊 Tabela de Valores Médios por Mês
