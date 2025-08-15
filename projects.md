@@ -62,7 +62,7 @@ O gráfico demonstra o aumento da liquidez das ações da IBM, indicando maior p
 
 ## 🖼️ Visualização Integrada
 
-![Análise IBM – Tabela e Gráficos](ibm-analise.png)
+![Análise IBM – Tabela e Gráficos](ibm.png)
 
 A imagem acima reúne os principais elementos do projeto: a tabela com os valores médios por mês, o gráfico de variação do preço de fechamento e o gráfico de evolução do volume negociado. Essa visualização foi gerada diretamente no Power BI com base em dados reais.
 
