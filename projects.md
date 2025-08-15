@@ -1,25 +1,26 @@
-# Projetos
+# 📈 Projeto de Análise de Ações – IBM (2024–2025)
 
-## 📈 Análise de Ações IBM (2024–2025)
+## 🏢 Sobre a IBM
 
-### 🏢 O que é a IBM?
-
-A IBM (International Business Machines Corporation) é uma das maiores empresas de tecnologia do mundo, conhecida por atuar em áreas como computação em nuvem, inteligência artificial, hardware, software e consultoria. Suas ações são negociadas na bolsa de valores dos EUA, e são acompanhadas por investidores do mundo todo.
+A International Business Machines Corporation (IBM) é uma das maiores empresas globais de tecnologia, com atuação em áreas como computação em nuvem, inteligência artificial, hardware, software e consultoria. Suas ações são negociadas na bolsa de valores dos Estados Unidos e acompanhadas por investidores em todo o mundo.
 
 ---
 
-### 🎯 Objetivo do Projeto
+## 🎯 Objetivo da Análise
 
-Este projeto foi desenvolvido no Power BI com o objetivo de analisar a evolução mensal das ações da IBM entre agosto de 2024 e agosto de 2025. A análise inclui:
+Este projeto foi desenvolvido no Power BI com o propósito de analisar a evolução mensal das ações da IBM entre agosto de 2024 e agosto de 2025. A análise contempla:
 
-- Preço médio de abertura, fechamento, maior e menor do dia
-- Volume médio de ações negociadas
-- Gráficos de variação mensal e evolução de volume
+- Preços médios de abertura, fechamento, máxima e mínima diária  
+- Volume médio de ações negociadas  
+- Visualizações gráficas da variação de preços e do volume negociado  
 
-📎 [Clique aqui para ver o relatório em PDF](ibm.pdf)
+📎 [Acesse o relatório completo em PDF](ibm.pdf)
+
 ---
 
-### 📊 Tabela de Valores Médios por Mês
+## 📊 Visão Geral dos Dados
+
+A tabela abaixo apresenta os valores médios mensais das ações da IBM ao longo do período analisado:
 
 | Ano  | Mês      | Abertura | Máximo | Mínimo | Fechamento | Volume Negociado |
 |------|----------|----------|--------|--------|------------|------------------|
@@ -39,38 +40,46 @@ Este projeto foi desenvolvido no Power BI com o objetivo de analisar a evoluçã
 
 ---
 
-### 📉 Gráfico 1: Variação Mensal do Preço de Fechamento
+## 📉 Variação Mensal do Preço de Fechamento
 
-- **Alta significativa** entre agosto/24 (197,00) e junho/25 (279,90)
-- **Pico máximo** em junho/julho de 2025
-- **Queda acentuada** em agosto/25 para 244,57
+- Crescimento expressivo entre agosto/24 (197,00) e junho/25 (279,90)  
+- Pico máximo em junho/julho de 2025  
+- Queda acentuada em agosto/25 para 244,57  
 
-Esse gráfico mostra como o valor da ação se comportou ao longo do tempo, refletindo possíveis eventos econômicos ou decisões internas da empresa.
-
----
-
-### 📈 Gráfico 2: Evolução do Volume Negociado
-
-- **Volume mais alto**: agosto/25 (6,59 milhões de ações)
-- **Volume mais baixo**: agosto/24 (2,62 milhões)
-- Tendência geral de crescimento no volume negociado
-
-Esse gráfico indica o interesse dos investidores nas ações da IBM ao longo do período.
+Este gráfico reflete a oscilação dos preços de fechamento ao longo do período, sugerindo possíveis impactos de decisões estratégicas, resultados financeiros ou eventos externos.
 
 ---
 
-### 🧠 Aprendizados
+## 📈 Evolução do Volume Negociado
 
-Esse projeto me ajudou a:
+- Maior volume: agosto/25 (6,59 milhões de ações)  
+- Menor volume: agosto/24 (2,62 milhões)  
+- Tendência geral de crescimento no interesse dos investidores  
 
-- Organizar dados financeiros com precisão
-- Criar visualizações interativas no Power BI
-- Interpretar tendências de mercado com base em dados reais
+O gráfico demonstra o aumento da liquidez das ações da IBM, indicando maior participação do mercado ao longo dos meses.
 
 ---
 
-### 🔜 Próximos passos
+## 🖼️ Visualização Integrada
 
-- Criar KPIs com DAX (preço máximo, mínimo, variação percentual)
-- Publicar o dashboard interativo no Power BI Service
-- Integrar com outras fontes de dados (ex: Yahoo Finance, APIs)
+![Análise IBM – Tabela e Gráficos](ibm-analise.png)
+
+A imagem acima reúne os principais elementos do projeto: a tabela com os valores médios por mês, o gráfico de variação do preço de fechamento e o gráfico de evolução do volume negociado. Essa visualização foi gerada diretamente no Power BI com base em dados reais.
+
+---
+
+## 🧠 Principais Aprendizados
+
+Durante o desenvolvimento deste projeto, aprimorei habilidades como:
+
+- Organização e tratamento de dados financeiros  
+- Criação de visualizações interativas no Power BI  
+- Interpretação de tendências de mercado com base em dados históricos  
+
+---
+
+## 🔜 Próximos Passos
+
+- Implementar KPIs com DAX (preço máximo, mínimo, variação percentual)  
+- Publicar o dashboard interativo no Power BI Service  
+- Integrar fontes externas de dados (ex: Yahoo Finance, APIs financeiras)
