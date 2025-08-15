@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 Bem-vindo ao meu portfólio profissional!
+## Bem-vindo ao meu portfólio!
 
 Aqui você encontrará projetos desenvolvidos com foco em **Business Intelligence**, **análise de dados** e **automação de processos**.  
 Meu objetivo é aplicar soluções inteligentes que transformem dados em decisões estratégicas.
@@ -15,7 +15,7 @@ Meu objetivo é aplicar soluções inteligentes que transformem dados em decisõ
 Atualmente em transição para a área de Dados, venho me especializando em:
 
 - Power BI  
-- SQL  
+- SQL 
 - Python  
 - Excel Avançado  
 
@@ -25,10 +25,10 @@ Com base em experiências sólidas nas áreas **administrativa**, **financeira**
 
 ## 🔗 Navegação
 
-- [📌 Sobre Mim](#sobre-mim)  
-- [📊 Projetos](#projetos)  
-- [📚 Certificações](#certificações)  
-- [📬 Contato](#contato)
+- [📌 Sobre Mim](about.md)  
+- [📊 Projetos](projects.md)  
+- [📚 Certificações](certifications.md)  
+- [📬 Contato](contact.md)
 
 ---
 
